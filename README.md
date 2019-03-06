@@ -1,2 +1,2 @@
 # MarioGameV3
-This version of the game demonstraits a version of the code using deep copy and recursion as well as a basic version of an AI based mario.
+This version of the game demonstraits a version of the code using Javascript. The server is no longer active so this is just my code for a javascript version of a mario game
